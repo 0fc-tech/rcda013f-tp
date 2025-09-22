@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "TP"
 include(":app")
 include(":gestionfilmserie")
+include(":lancerde")
